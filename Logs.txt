@@ -1,0 +1,45 @@
+no enhancement damage : [238731]
+Windfury damage : [43132] procs (62)
+Rockbiter total dmg : [37318]
+Frostbrand Damage : [45024] procs(162)
+
+no enhancement damage : [177969]
+Windfury damage : [32087] procs (60)
+Rockbiter total dmg : [29880]
+Frostbrand Damage : [36420] procs(154)
+
+no enhancement damage : [278650]
+Windfury damage : [49255] procs (58)
+Rockbiter total dmg : [43655]
+Frostbrand Damage : [51192] procs(166)
+
+no enhancement damage : [258008]
+Windfury damage : [45561] procs (58)
+Rockbiter total dmg : [41484]
+Frostbrand Damage : [46110] procs(149)
+
+no enhancement damage : [313305]
+Windfury damage : [56248] procs (64)
+Rockbiter total dmg : [47510]
+Frostbrand Damage : [54093] procs(167)
+
+no enhancement damage : [312032]
+Windfury damage : [54879] procs (61)
+Rockbiter total dmg : [47097]
+Frostbrand Damage : [55624] procs(159)
+
+no enhancement damage : [315142]
+Windfury damage : [57992] procs (74)
+Rockbiter total dmg : [46735.9428571427]
+Frostbrand Damage : [53648] procs(146)
+
+no enhancement damage : [256958]
+Windfury damage : [47502] procs (54)
+Rockbiter total dmg : [40097.65714285714]
+Frostbrand Damage : [47536] procs(156)
+
+no enhancement damage : [334789]
+Windfury damage : [59944] procs (93)
+Rockbiter total dmg : [50071.57142857137]
+Frostbrand Damage : [57324] procs(160)
+
